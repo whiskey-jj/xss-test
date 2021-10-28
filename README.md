@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="docs/imgs/logo.png" width="200" onerror="alert(1)">
+<p align="center">2
+  <img src="docs/imgs/logo.png" widt2h="200">
 </p>
 
 <p align="center">
@@ -24,5 +24,4 @@ Scanner for vulnerabilities in container images, file systems, and Git repositor
 <p align="center">
   <img src="docs/imgs/misconf-demo.gif" width="1000" alt="Misconfiguration Detection">
 </p>
-
 
