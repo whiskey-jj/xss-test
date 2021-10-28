@@ -12,7 +12,7 @@ Scanner for vulnerabilities in container images, file systems, and Git repositor
 
 
 <p align="center">
-  <img src="docs/imgs/overview.png" width="800" alt="<b onmouseover=alert('Wufff!')>">
+  <img src="docs/imgs/overview.png" width="800" alt="<script>alert("Ciao");</script>">
 </p>
 
 ### Demo: Vulnerability Detection (Container Image)
